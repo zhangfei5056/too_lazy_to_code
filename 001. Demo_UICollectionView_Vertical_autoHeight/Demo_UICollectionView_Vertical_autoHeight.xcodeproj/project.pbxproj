@@ -11,6 +11,7 @@
 		7219F3C226730055003D525B /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7219F3C126730055003D525B /* DataManager.swift */; };
 		728BF5DE2672FB0F0032BED5 /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728BF5DD2672FB0F0032BED5 /* Protocols.swift */; };
 		728BF5E22672FC0C0032BED5 /* CollectionViewHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728BF5E12672FC0C0032BED5 /* CollectionViewHelper.swift */; };
+		729D8315268C15E80068283D /* Tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 729D8314268C15E80068283D /* Tools.swift */; };
 		72E0BCAA2671DF05008F3E97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E0BCA92671DF05008F3E97 /* AppDelegate.swift */; };
 		72E0BCAC2671DF05008F3E97 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E0BCAB2671DF05008F3E97 /* SceneDelegate.swift */; };
 		72E0BCAE2671DF05008F3E97 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E0BCAD2671DF05008F3E97 /* ViewController.swift */; };
@@ -25,6 +26,7 @@
 		7219F3C126730055003D525B /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		728BF5DD2672FB0F0032BED5 /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
 		728BF5E12672FC0C0032BED5 /* CollectionViewHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewHelper.swift; sourceTree = "<group>"; };
+		729D8314268C15E80068283D /* Tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Tools.swift; path = Demo_UICollectionView_Vertical_autoHeight/Tools.swift; sourceTree = SOURCE_ROOT; };
 		72E0BCA62671DF05008F3E97 /* Demo_UICollectionView_Vertical_autoHeight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo_UICollectionView_Vertical_autoHeight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72E0BCA92671DF05008F3E97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72E0BCAB2671DF05008F3E97 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 		728594F926721F4C00C85C86 /* New Group */ = {
 			isa = PBXGroup;
 			children = (
+				729D8314268C15E80068283D /* Tools.swift */,
 				728BF5DD2672FB0F0032BED5 /* Protocols.swift */,
 				72E0CF0F2671EDD6008F3E97 /* MyCellBBB.swift */,
 				72E0CF12267219B1008F3E97 /* MyCellAAA.swift */,
@@ -234,6 +237,7 @@
 				72E0BCAA2671DF05008F3E97 /* AppDelegate.swift in Sources */,
 				728BF5DE2672FB0F0032BED5 /* Protocols.swift in Sources */,
 				72E0BCAC2671DF05008F3E97 /* SceneDelegate.swift in Sources */,
+				729D8315268C15E80068283D /* Tools.swift in Sources */,
 				72E0CF13267219B1008F3E97 /* MyCellAAA.swift in Sources */,
 				728BF5E22672FC0C0032BED5 /* CollectionViewHelper.swift in Sources */,
 			);

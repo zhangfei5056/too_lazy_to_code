@@ -18,6 +18,7 @@
 		724F4D99267C8AD1004B472F /* MyCellBBB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724F4D98267C8AD1004B472F /* MyCellBBB.swift */; };
 		724F53BB267C8EC9004B472F /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724F53BA267C8EC9004B472F /* Protocols.swift */; };
 		724F53BE267C8EE1004B472F /* TableViewHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724F53BD267C8EE1004B472F /* TableViewHelper.swift */; };
+		729D831B268C16010068283D /* Tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 729D831A268C16010068283D /* Tools.swift */; };
 		F3D832BE1B2BFAA63655979F /* Pods_Demo_UITableView_autoHeight.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21AAA439FBB073E63547C560 /* Pods_Demo_UITableView_autoHeight.framework */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		724F4D98267C8AD1004B472F /* MyCellBBB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCellBBB.swift; sourceTree = "<group>"; };
 		724F53BA267C8EC9004B472F /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
 		724F53BD267C8EE1004B472F /* TableViewHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewHelper.swift; sourceTree = "<group>"; };
+		729D831A268C16010068283D /* Tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tools.swift; sourceTree = "<group>"; };
 		B2736C7709418B2210E1F83F /* Pods-Demo_UITableView_autoHeight.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Demo_UITableView_autoHeight.release.xcconfig"; path = "Target Support Files/Pods-Demo_UITableView_autoHeight/Pods-Demo_UITableView_autoHeight.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -87,6 +89,7 @@
 		724F53C0267C8EE5004B472F /* New Group */ = {
 			isa = PBXGroup;
 			children = (
+				729D831A268C16010068283D /* Tools.swift */,
 				724F53BA267C8EC9004B472F /* Protocols.swift */,
 				724F4D7C267C8929004B472F /* ViewController.swift */,
 				724F4D91267C8A08004B472F /* DataManager.swift */,
@@ -234,6 +237,7 @@
 				724F53BE267C8EE1004B472F /* TableViewHelper.swift in Sources */,
 				724F4D99267C8AD1004B472F /* MyCellBBB.swift in Sources */,
 				724F4D79267C8929004B472F /* AppDelegate.swift in Sources */,
+				729D831B268C16010068283D /* Tools.swift in Sources */,
 				724F4D7B267C8929004B472F /* SceneDelegate.swift in Sources */,
 				724F4D96267C8A4A004B472F /* MyCellAAA.swift in Sources */,
 			);
